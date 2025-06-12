@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/password-validator/static/css/main.e4f20bd0.css",
+    "main.js": "/password-validator/static/js/main.1bdd19d4.js",
+    "static/js/453.0e57cb3c.chunk.js": "/password-validator/static/js/453.0e57cb3c.chunk.js",
+    "index.html": "/password-validator/index.html",
+    "main.e4f20bd0.css.map": "/password-validator/static/css/main.e4f20bd0.css.map",
+    "main.1bdd19d4.js.map": "/password-validator/static/js/main.1bdd19d4.js.map",
+    "453.0e57cb3c.chunk.js.map": "/password-validator/static/js/453.0e57cb3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4f20bd0.css",
+    "static/js/main.1bdd19d4.js"
+  ]
+}
